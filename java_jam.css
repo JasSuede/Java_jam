@@ -1,0 +1,18 @@
+body {	background-color:	#FFFFCC;
+			color:	#330000;
+			font-family:	Verdana, Arial, san-serif;
+			width:	80%;
+}
+h1	{	background-color:	#CCAA66;
+			color:	#000000;
+			line-height:	200%;
+			text-align: center;
+}
+.nav	{	text-align: center;	}
+#footer {	background-color:	#CCAA66;
+				line-height:	200%;
+				color:	#000000;
+				font-size:	.60em;
+				font-style: italics;
+				text-align: center;
+}
